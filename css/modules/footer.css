@@ -65,12 +65,14 @@
   color: var(--color-CACACA);
 }
 .footer__input-text,
+.footer__input-date,
 .footer__input-mail {
   display: block;
   padding: 14px 24px;
   width: 100%;
 }
 .footer__input-text,
+.footer__input-date,
 .footer__input-mail,
 .footer__input-message {
   margin-bottom: 25px;
